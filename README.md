@@ -5,7 +5,7 @@
 - 기본적인 UI/디자인 구성
 - 데이터 저장 및 전송 기능 구현
 - 로그인 기능 구현
-- DB구현
+- DB구현  
 -https://www.figma.com/design/aElak3kNByXJ83s6CS2fOJ/Untitled?node-id=0-1&p=f&t=CuWZS7sqw8gVaJhE-0
 -디자인 설계 (피그마 활용)
 
