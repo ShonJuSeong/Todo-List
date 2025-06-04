@@ -8,6 +8,11 @@
 - DB구현  
 -https://www.figma.com/design/aElak3kNByXJ83s6CS2fOJ/Untitled?node-id=0-1&p=f&t=CuWZS7sqw8gVaJhE-0
 -디자인 설계 (피그마 활용)
+--------------------------------------------------------------
+# 가계부 어플
+- Todo-list 프로젝트 폐기
+- 1인 사용 가계부 어플리케이션
+
 
 ![image](https://github.com/user-attachments/assets/f0f868fe-cfb0-4f5c-9863-abcbb45b3d80)
 ![image](https://github.com/user-attachments/assets/459f5f89-8a44-435f-8dfc-c17dee064695)
